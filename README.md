@@ -1,6 +1,6 @@
 # Pewlett-Hackard-Analysis
 ## Overview
-HR has expressed concern that a large percentage Pewlett-Hackard staff is approaching retirement age and requires analysis into staffing requirements for talent acquisition and mentorship programs.  HR data was imported to a PostgreSQL 14 database and analysis was performed based on the following assumptions:
+HR has expressed concern that a large percentage Pewlett-Hackard staff is approaching retirement age and requires analysis into staffing requirements for talent acquisition and mentorship programs.  HR data from three categories (employees, salaries, and titles) was imported to a PostgreSQL 14 database and analysis was performed based on the following assumptions:
 
 - Retiring staff was born between 1952-01-01 and 1955-12-31
 - Potential mentors were born between 1965-01-01 and 1965-12-31
