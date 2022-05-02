@@ -21,5 +21,5 @@ PostgreSQL 14, pgAdmin 4 v6.7
 - Manager:  2 employees (22%) retiring, 0 eligible for mentorship program
 
 ## Summary
-Overall, approximately 30% of the Pewlett Hackard staff is expected to retire in the near future.  HR must respond by developint aggressive talent acquisition plans and expanding the mentorship program.  The mentorship program should be promoted and utilized to identify candidates to be mentors and candidates seeking mentorship to develop their professional development plans.  However, given the volume of open positions HR must develop and implement an aggressive talent acquisition program that seeks candidates at all skill levels.
+Overall, approximately 30% of the Pewlett Hackard staff is expected to retire in the near future.  HR must respond by developint aggressive talent acquisition plans and expanding the mentorship program.  The mentorship program should be promoted and utilized to identify candidates to be mentors as well as candidates seeking mentorship to develop their professional development plans.  However, given the volume of open positions HR must develop and implement an aggressive talent acquisition program that seeks candidates at all skill levels.
 
